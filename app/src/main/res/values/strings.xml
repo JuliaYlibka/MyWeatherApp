@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="hint_city">Введите город</string>
+    <string name="Search">Показать погоду</string>
+    <string name="temp">Температура:</string>
+    <string name="humid">Влажность:</string>
+    <string name="felling_temp">Ощущается:</string>
+    <string name="SpeedOfWind">Скорость ветра:</string>
+    <string name="GoOfWind">Направление ветра:</string>
+    <string name="weather_status">Состояние погоды:</string>
+    <string name="time_start_sun">Время восхода солнца:</string>
+    <string name="time_end_sun">Время захода солнца:</string>
+
+</resources>
